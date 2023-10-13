@@ -1,0 +1,6 @@
+bcrypt
+dotenv
+express
+express-async-handler
+mongoose
+npm i jsonwebtoken
